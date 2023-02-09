@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/timesheet-project/static/css/main.59730c0b.css",
+    "main.js": "/timesheet-project/static/js/main.4ad9742c.js",
+    "index.html": "/timesheet-project/index.html",
+    "main.59730c0b.css.map": "/timesheet-project/static/css/main.59730c0b.css.map",
+    "main.4ad9742c.js.map": "/timesheet-project/static/js/main.4ad9742c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59730c0b.css",
+    "static/js/main.4ad9742c.js"
+  ]
+}
