@@ -1,0 +1,4 @@
+.modal-project-wrapper{
+    display: flex;
+    flex-wrap: nowrap;
+}

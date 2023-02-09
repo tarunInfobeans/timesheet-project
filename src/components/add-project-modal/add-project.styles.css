@@ -1,0 +1,31 @@
+  .container.row.top-most{
+    font-size: 12px;
+    font-weight: 600;
+  }
+
+  .container.row.top-most input{
+    display: none;
+  }
+
+  .container.row.top-most input:checked + span{
+    background-color: black;
+    color: white;
+  }
+
+    .container.row.top-most span{
+        display: flex;
+        justify-content: center;
+        margin: 4px;
+        padding: 7px;
+        width: 43px;
+        border: 2px solid;
+        border-radius: 50%;
+    }
+    .container.row.top-most label{
+        width: fit-content;
+        margin: 0;
+        padding: 0;
+    }
+    .remove-project-modal-wrapper svg{
+        cursor: pointer;
+    }

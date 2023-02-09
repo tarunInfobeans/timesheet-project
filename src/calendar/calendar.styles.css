@@ -1,0 +1,53 @@
+div.project-codes-bullet{
+    display:inline-block;
+    border-radius: 50%; 
+    height: 12px;
+    width: 12px;
+    margin-right:4px
+}
+
+div.project-code-wrapper{
+    display: flex;
+    flex-wrap: nowrap;
+    width: 100%;
+    align-items: center;
+}
+
+div.project-code-wrapper span{
+    font-size: larger;
+    font-weight: bolder;
+}
+
+div.project-code-wrapper li{
+    font-size: large;
+    font-weight: bold;
+}
+
+div.project-code-wrapper ul.bullet-color-code{
+    display: flex;
+    width: 65%;
+    justify-content: space-around;
+    list-style: none;
+    margin-bottom: 0;
+}
+
+div.row.project-row{
+    margin-bottom: 5px;
+}
+
+p.project-header{
+    margin-bottom: 0;
+}
+
+div.top-header-additional-wrapper{
+    display: flex   ;
+    margin-bottom: 8px;
+}
+
+div.project-addition-wrapper button{
+    border: 1px solid;
+    font-weight: bolder;
+}
+#root > div > div > div > div > div.fc-header-toolbar.fc-toolbar.fc-toolbar-ltr{
+    margin-bottom: 0.5em;
+}

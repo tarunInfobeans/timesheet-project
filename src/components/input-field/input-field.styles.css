@@ -1,0 +1,15 @@
+div.input-group{
+    flex-wrap: nowrap !important;
+}
+
+.modal-class-component{
+    width: 50% !important;
+}
+
+.modal-class-component span{
+    width: 19% !important;
+}
+
+.modal-class-component span:hover{
+    cursor: pointer;
+}
